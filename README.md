@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi there 👋 I'm Rehema Manuella<br><br>🔭 I’m currently working on exciting web development projects and honing my skills in Android Studio.<br><br>💕 I’m always learning—right now, diving deeper into Full-Stack Webdevelopment, PHP, mobile development, and refining my server administration techniques.<br><br>🤔 Ask me about Python, C++, Java, PHP, Laravel, SQL, Android Studio, and Machine Learning!<br><br>👩‍💻 I’m passionate about efficient, user-friendly design, from Websites to mobile apps.<br><br>🤳 How to reach me: rehemamanuella@gmail.com<br><br>🧙‍♀️I’m constantly exploring new hobbies—from crochet and art to making great connections in my tech journey!<br>
+## Hi there 👋 I'm Rehema Manuella<br><br>
+🔭 I’m currently working on exciting web development projects and honing my skills in Android Studio.<br><br>💕 I’m always learning—right now, diving deeper into Full-Stack Webdevelopment, PHP, mobile development, and refining my server administration techniques.<br><br>🤔 Ask me about Python, C++, Java, PHP, Laravel, SQL, Android Studio, and Machine Learning!<br><br>👩‍💻 I’m passionate about efficient, user-friendly design, from Websites to mobile apps.<br><br>🤳 How to reach me: rehemamanuella@gmail.com<br><br>🧙‍♀️I’m constantly exploring new hobbies—from crochet and art to making great connections in my tech journey!<br>
 
 
 ## 🌐 Socials:
